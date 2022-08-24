@@ -14,6 +14,7 @@ function App() {
         <h1 className="text-3xl font-bold underline">Learn React</h1>
         <h1 className="">asdasda</h1>
         <div>测试</div>
+        <div>新測試</div>
       </header>
     </div>
   );
