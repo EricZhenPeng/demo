@@ -13,6 +13,7 @@ function App() {
         <div className=""></div>
         <h1 className="text-3xl font-bold underline">Learn React</h1>
         <h1 className="">asdasda</h1>
+        <div>测试</div>
       </header>
     </div>
   );
